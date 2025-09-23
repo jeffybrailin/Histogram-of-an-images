@@ -74,16 +74,10 @@ plt.show()
 
 
 
-
-
-
-
-
-
-
 ```
+
 ## Output:
-<img width="1425" height="914" alt="image" src="https://github.com/user-attachments/assets/ec33f188-0925-4f3b-b330-2498a15f7b16" />
+<img width="1332" height="784" alt="image" src="https://github.com/user-attachments/assets/5b4e5dec-487a-4ce0-b7cd-bae6e4b41388" />
 
 
 
