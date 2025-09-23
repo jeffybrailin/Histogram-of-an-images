@@ -1,3 +1,7 @@
+## Name : Jeffy Brailin T
+
+## Reg. No. : 212223040076
+
 # Histogram-of-an-images
 ## Aim
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
@@ -26,9 +30,6 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ```
-# Developed By: JEFFY BRAILIN T
-# Register Number: 212223040076
-
 
 import cv2
 import numpy as np
